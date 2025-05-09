@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <title>Desi Food Catering</title>
         <link rel="icon" type="image/png" href="logo image/logo.png">
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
         <header>
