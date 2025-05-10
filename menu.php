@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Desi Food Catering Menu</title>
-        <link rel="icon" type="image/png" href="logo image/logo.png">
+        <link rel="icon" type="image/jpg" href="logo image/logo.jpg">
     </head>
     <body>
         <header>
