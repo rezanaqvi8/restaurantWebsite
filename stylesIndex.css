@@ -1,0 +1,90 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #fffefc;
+    color: #2e2e2e;
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+}
+
+header {
+    background-color: #f9f9f9;
+    padding: 1em 2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #8b0000;
+}
+
+nav {
+    display: flex;
+    gap: 1.5em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #2e2e2e;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+nav a.active, nav a:hover {
+    color: #2e8b57;
+}
+
+.call-button-header {
+    background-color: #2e8b57;
+    color: white;
+    padding: 0.5em 1.2em;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+main {
+    padding: 2em 10%;
+}
+        
+.about, .contact {
+    margin-bottom: 2em;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.menu-link {
+    display: inline-block;
+    margin-top: 1em;
+    background-color: #8b0000;
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.call-button {
+    display: inline-block;
+    margin-top: 1em;
+    background-color: #2e8b57;
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
